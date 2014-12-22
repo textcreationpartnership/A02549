@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An humble remonstrance to the High Court of Parliament, by a dutifull sonne of the ChurchHall, Josep
+
 #####Body#####
-An humble remonstrance to the High Court of Parliament, by a dutifull sonne of the ChurchHall, Josep
+
+1. AN HVMBLE REMONSTRANCE TO THE HIGH COURT of Parliament.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
